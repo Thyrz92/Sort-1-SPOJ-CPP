@@ -1,0 +1,5 @@
+﻿  Sort 1.cpp
+c:\users\miki_\source\repos\sort 1\sort 1\sort 1.cpp(73): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\miki_\source\repos\sort 1\sort 1\sort 1.cpp(65): warning C4101: "odleglosc": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\miki_\source\repos\sort 1\sort 1\sort 1.cpp(94): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Sort 1.vcxproj -> C:\Users\miki_\Source\Repos\Sort 1\Debug\Sort 1.exe
